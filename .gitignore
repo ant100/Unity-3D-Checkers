@@ -1,0 +1,11 @@
+.DS_Store
+
+Logs/*
+obj/*
+Library/*
+Temp/*
+.vs/*
+Builds/*
+
+Assembly-CSharp.csproj
+Checkers3D.sln
